@@ -11,7 +11,7 @@
         <img align="center" src="./images/cover.png" alt="LinkedIn Banner" />
     </p>
     <h3 align="center">Connect with me:</h3>
-    <div class="contact-info">
+    <div align="center" class="contact-info">
       <a class="contact-link" href="https://www.linkedin.com/in/dharmaraj-rathod-105094202/">LinkedIn</a>
       <a class="contact-link" href="https://www.instagram.com/dharmaraj_rathod/">Instagram</a>
       <a class="contact-link" href="https://www.facebook.com/rathod.dharmaraj.94/">FaceBook</a>
