@@ -15,6 +15,9 @@
       <a class="contact-link" href="https://www.instagram.com/dharmaraj_rathod/">Instagram</a>
       <a class="contact-link" href="https://www.facebook.com/rathod.dharmaraj.94/">FaceBook</a>
     </div>
+    <h3 align="center">Connect with me:</h3>
+<p align="center">
+</p>
     <div class="skills">
       <h2>Skills</h2>
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
