@@ -13,13 +13,13 @@
     <h3 align="center">Connect with me:</h3>
 <div align="center" class="contact-info">
   <a class="contact-link" href="https://www.linkedin.com/in/dharmaraj-rathod-105094202/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="padding-right: 5px;"/> LinkedIn
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="padding-right: 5px;"/>
   </a>
   <a class="contact-link" href="https://www.instagram.com/dharmaraj_rathod/">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" style="padding-right: 5px;"/> Instagram
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" style="padding-right: 5px;"/>
   </a>
   <a class="contact-link" href="https://www.facebook.com/rathod.dharmaraj.94/">
-    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" style="padding-right: 5px;"/> Facebook
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" style="padding-right: 5px;"/>
   </a>
 </div>
 </p>
