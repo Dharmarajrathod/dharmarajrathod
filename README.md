@@ -17,7 +17,7 @@
       <a class="contact-link" href="https://www.facebook.com/rathod.dharmaraj.94/">FaceBook</a>
     </div>
 </p>
-    <div class="skills">
+    <div  align="center" class="skills">
       <h2>Skills</h2>
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
