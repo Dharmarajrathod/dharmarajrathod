@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Hi, Myself Dharmaraj Rathod</h1>
+    <h1>Hi, I am Dharmaraj Rathod</h1>
     <p>Web Developer || Graphics Designer</p>
     <p align="center"> 
         <img align="center" src="./images/cover.png" alt="LinkedIn Banner" />
