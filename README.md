@@ -37,6 +37,17 @@
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
       <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dharmarajrathod&show_icons=true&locale=en&layout=compact" alt="parmar-mohit" /></p>
     </div>
+  # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+
+<br/>
+<p align="left">
+  <a href="http://torrinleonard.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Dharmarajrathod&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmarajrathod&theme=radical&hide_border=true">	
+    [![Dharmaraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharmarajrathod&theme=dracula)](https://github.com/Dharmarajrathod/github-readme-activity-graph)
+  </a>
+</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Dharmarajrathod}/count.svg"></p>
   </div>
 </body>
 </html>
