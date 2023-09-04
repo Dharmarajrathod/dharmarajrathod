@@ -10,6 +10,9 @@
     <p align="center"> 
         <img align="center" src="./images/cover.png" alt="LinkedIn Banner" />
     </p>
+      <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dharmarajrathod&label=Profile%20views&color=0e75b6&style=flat" alt="amitp138" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dharmarajrathod" alt="amitp138" /></a> </p>
     <h3 align="center">Connect with me:</h3>
 <div align="center" class="contact-info">
   <a class="contact-link" href="https://www.linkedin.com/in/dharmaraj-rathod-105094202/">
