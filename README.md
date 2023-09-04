@@ -44,7 +44,6 @@
   <a href="http://torrinleonard.com/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Dharmarajrathod&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmarajrathod&theme=radical&hide_border=true">	
-    [![Dharmaraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharmarajrathod&theme=dracula)](https://github.com/Dharmarajrathod/github-readme-activity-graph)
   </a>
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{Dharmarajrathod}/count.svg"></p>
