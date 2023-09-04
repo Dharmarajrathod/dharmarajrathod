@@ -37,7 +37,7 @@
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
       <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=dharmarajrathod&show_icons=true&locale=en&layout=compact" alt="parmar-mohit" /></p>
     </div>
-  # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+  # Statistics <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> 
 
 <br/>
 <p align="left">
